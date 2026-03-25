@@ -12,7 +12,7 @@ body {
     background: #f8f9fa;
 }
 
-/* HEADER */
+
 header {
     background:  linear-gradient(135deg, #1e1e1e, #850404);
     color: gold;
@@ -21,7 +21,8 @@ header {
     font-weight: bold;
     letter-spacing: 1px;
 }
-/* CATEGORY */
+
+
 .categories {
     display: flex;
     justify-content: space-between;
@@ -55,14 +56,19 @@ header {
 .cart:hover{
     color: gold;
 }
-/* PRODUCTS */
+
+
+
 .products {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 20px;
     padding: 20px;
 }
-/* CARD */
+
+
+
+
 .card {
     background: white;
     padding: 15px;
