@@ -45,13 +45,6 @@ Successfully created a visually structured homepage for **RoyalMart** with produ
 
 ---
 
-### 🔹 Challenges Faced
-
-* Faced issues with image display due to incorrect file paths
-* Resolved by correcting image source paths and organizing files properly
-
----
-
 ### 🔹 Next Plan (Day 2)
 
 * Improve layout using CSS Grid for better responsiveness
