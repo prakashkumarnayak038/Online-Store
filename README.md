@@ -34,8 +34,8 @@ On Day 1, I started developing the basic structure of the Online Store Homepage 
 
 ### 🔹 Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 
 ---
 
